@@ -1,0 +1,1 @@
+/home/usuario/Escritorio/reporte/club/src/coverage/debug/build/wasm-opt-sys-8a3a8de0ba6191de/out/cxxbridge/sources/wasm-opt-sys/src/lib.rs.cc
